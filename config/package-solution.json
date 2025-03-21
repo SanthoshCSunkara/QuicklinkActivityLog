@@ -1,0 +1,40 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/package-solution.schema.json",
+  "solution": {
+    "name": "quicklink-activity-log-client-side-solution",
+    "id": "5c6767cb-d5b8-42aa-9be2-5aeef6f89322",
+    "version": "2.0.0.0",
+    "includeClientSideAssets": true,
+    "skipFeatureDeployment": true,
+    "isDomainIsolated": false,
+    "developer": {
+      "name": "",
+      "websiteUrl": "",
+      "privacyUrl": "",
+      "termsOfUseUrl": "",
+      "mpnId": "Undefined-1.19.0"
+    },
+    "metadata": {
+      "shortDescription": {
+        "default": "QuicklinkActivityLog description"
+      },
+      "longDescription": {
+        "default": "QuicklinkActivityLog description"
+      },
+      "screenshotPaths": [],
+      "videoUrl": "",
+      "categories": []
+    },
+    "features": [
+      {
+        "title": "quicklink-activity-log Feature",
+        "description": "The feature that activates elements of the quicklink-activity-log solution.",
+        "id": "a4ecfe23-9fc4-468a-b73e-0c4998450d0a",
+        "version": "2.0.0.0"
+      }
+    ]
+  },
+  "paths": {
+    "zippedPackage": "solution/quicklink-activity-log.sppkg"
+  }
+}

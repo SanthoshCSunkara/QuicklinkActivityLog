@@ -1,0 +1,25 @@
+.linkCard {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background-color: #fff;
+    border: 1px solid black;
+    border-radius: 8px;
+    padding: 10px;
+    margin-bottom: 10px;
+    text-align: center;
+    color: black;
+}
+
+.linkCard a {
+    width: 100%;
+    color: black;
+    font-size: 16px;
+    text-decoration: none;
+    border: none;
+    background-color: transparent;
+}
+
+.linkCard a:hover {
+    color: #FB8C2E;
+}
