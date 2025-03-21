@@ -2,9 +2,21 @@
 
 ## Summary
 
-Short summary on functionality and used technologies.
+Creating a quick link list. With adding app on a page, Title will fetch links into app and when user click on a link it will be logged to tracker
 
 [picture of the solution in action, if possible]
+
+![image](https://github.com/user-attachments/assets/a8040b19-f5e5-4745-a335-8903aa9ea9a9)
+
+![image](https://github.com/user-attachments/assets/6cceff0e-b11f-47e3-9256-52f6b7708aa4)
+
+![image](https://github.com/user-attachments/assets/214c97f3-4aa9-4c20-bb57-5fed18270283)
+
+![image](https://github.com/user-attachments/assets/d5045792-a81b-415c-b4c2-e64dac78892f)
+
+![image](https://github.com/user-attachments/assets/6f65f29b-50f3-4635-9348-982eac47b201)
+
+
 
 ## Used SharePoint Framework Version
 
